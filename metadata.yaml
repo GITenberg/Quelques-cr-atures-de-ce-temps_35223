@@ -1,0 +1,42 @@
+_repo: Quelques-cr-atures-de-ce-temps_35223
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Goncourt, Edmond de
+    aliases:
+    - De Goncourt, Edmond
+    - Goncourt, Edmond Louis Antoine Huot de
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '5693'
+    url: http://www.gutenberg.org/2009/agents/5693
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
+    - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
+  - agent_name: Goncourt, Jules de
+    aliases:
+    - De Goncourt, Jules
+    - Goncourt, Jules Alfred Huot de
+    birthdate: 1830
+    deathdate: 1870
+    gutenberg_agent_id: '5694'
+    url: http://www.gutenberg.org/2009/agents/5694
+    wikipedia: http://fr.wikipedia.org/wiki/Jules_de_Goncourt
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2011-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35223'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+title: Quelques créatures de ce temps
+url: http://www.gutenberg.org/ebooks/35223
