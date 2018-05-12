@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5694
     wikipedia: http://fr.wikipedia.org/wiki/Jules_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35223#Quelques-cr-atures-de-ce-temps
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2011-02-09'
 gutenberg_type: Text
